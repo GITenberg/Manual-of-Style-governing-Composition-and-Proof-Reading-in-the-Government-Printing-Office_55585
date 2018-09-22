@@ -1,11 +1,16 @@
 _repo: Manual-of-Style-governing-Composition-and-Proof-Reading-in-the-Government-Printing-Office_55585
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55585-h/images/cover.jpg
 creator:
   author:
     agent_name: Office, United States Government Printing
     gutenberg_agent_id: '48407'
     url: http://www.gutenberg.org/2009/agents/48407
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55585#Manual-of-Style-governing-Composition-and-Proof-Reading-in-the-Government-Printing-Office
 gutenberg_issued: '2017-09-20'
 gutenberg_type: Text
 identifiers:
